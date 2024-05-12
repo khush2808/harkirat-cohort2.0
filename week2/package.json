@@ -1,0 +1,15 @@
+{
+  "name": "week2",
+  "version": "1.0.0",
+  "description": "learnt about node and express and commands of linux and bash and installed wsl.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
