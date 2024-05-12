@@ -21,6 +21,7 @@ app.get('/', function(req, res) {
 
 app.get('/users/:userId/books/:bookId', (req, res) => {
     res.send(req.params)
+    console.log(req.body);
   })
 
 app.listen(port, function() {
